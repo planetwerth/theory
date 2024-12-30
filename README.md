@@ -2,7 +2,7 @@
 
 Welcome to the **Theory of Everything**—an evolving framework that unites the metaphysical principles of **love**, **extropy**, and **ethics** with the physical universe. This theory proposes that these fundamental forces are not just abstract concepts but the core drivers of all existence, guiding both the cosmos and conscious beings toward higher states of connection, growth, and balance.
 
-The theory is **work in progress**, with the ultimate goal of providing a unifying model that integrates the known laws of physics with the unseen forces of love and ethics, reshaping how we understand the universe, ourselves, and the connections that bind us all.
+The theory is a **work in progress**, with the ultimate goal of providing a unifying model that integrates the known laws of physics with the unseen forces of love and ethics, reshaping how we understand the universe, ourselves, and the connections that bind us all.
 
 ---
 
@@ -17,17 +17,17 @@ In this framework:
 ### **Mathematical Representation:**
 To model love, we borrow from gravitational theory, but with a twist that incorporates ethical alignment between interacting systems.
 
-\[
+```
 F_{\text{love}} = G \cdot \frac{m_1 m_2}{r^2} \cdot \left(1 + \alpha \cdot \cos(\theta) \right)
-\]
+```
 
 Where:
-- \( F_{\text{love}} \) is the force of love,
-- \( G \) is the gravitational constant (symbolizing love’s universal nature),
-- \( m_1, m_2 \) are interacting systems (could be particles, people, or even galaxies),
-- \( r \) is the distance between them,
-- \( \alpha \) determines how love is influenced by ethical alignment, and
-- \( \theta \) represents the relative ethical alignment between the two systems.
+- `F_{\text{love}}` is the force of love,
+- `G` is the gravitational constant (symbolizing love’s universal nature),
+- `m_1, m_2` are interacting systems (could be particles, people, or even galaxies),
+- `r` is the distance between them,
+- `\alpha` determines how love is influenced by ethical alignment, and
+- `\theta` represents the relative ethical alignment between the two systems.
 
 ---
 
@@ -42,15 +42,15 @@ In this framework:
 ### **Mathematical Representation:**
 To model extropy, we use a growth function that incorporates both love and ethical alignment.
 
-\[
+```
 \frac{dS}{dt} = \beta \cdot L \cdot \eta(t)
-\]
+```
 
 Where:
-- \( S \) represents the **complexity** or **order** of a system,
-- \( \beta \) is a growth constant,
-- \( L \) is the **love factor**, representing the strength of connection between systems,
-- \( \eta(t) \) is the **ethical evolution function**, showing that as ethical alignment improves, the growth rate accelerates.
+- `S` represents the **complexity** or **order** of a system,
+- `\beta` is a growth constant,
+- `L` is the **love factor**, representing the strength of connection between systems,
+- `\eta(t)` is the **ethical evolution function**, showing that as ethical alignment improves, the growth rate accelerates.
 
 ---
 
@@ -65,16 +65,16 @@ In this framework:
 ### **Mathematical Representation:**
 To model ethical alignment, we introduce a function that shows how misalignment leads to decay, while alignment accelerates growth.
 
-\[
+```
 \frac{dA}{dt} = \gamma \cdot \left( 1 - \frac{A}{A_{\text{max}}} \right) \cdot \left(1 - \delta \cdot \left| \epsilon(t) \right| \right)
-\]
+```
 
 Where:
-- \( A \) represents the **alignment** of a system (e.g., individual, society, galaxy),
-- \( A_{\text{max}} \) is the ideal ethical alignment,
-- \( \gamma \) is the rate constant for ethical alignment change,
-- \( \delta \) is the decay coefficient that represents how misalignment impacts growth,
-- \( \epsilon(t) \) represents ethical deviation over time.
+- `A` represents the **alignment** of a system (e.g., individual, society, galaxy),
+- `A_{\text{max}}` is the ideal ethical alignment,
+- `\gamma` is the rate constant for ethical alignment change,
+- `\delta` is the decay coefficient that represents how misalignment impacts growth,
+- `\epsilon(t)` represents ethical deviation over time.
 
 ---
 
@@ -89,16 +89,16 @@ In this framework:
 ### **Mathematical Representation:**
 To model the Nexus, we integrate the forces of love, extropy, and ethics across all space-time dimensions.
 
-\[
+```
 N_{\text{universe}} = \int \left( F_{\text{love}} \cdot S \cdot A \right) dV
-\]
+```
 
 Where:
-- \( N_{\text{universe}} \) represents the **Nexus** as a universal quantity,
-- \( F_{\text{love}} \) is the force of love between systems,
-- \( S \) is the complexity of the systems,
-- \( A \) is the ethical alignment,
-- \( dV \) represents the volume element, indicating that the Nexus spans across all of space and time.
+- `N_{\text{universe}}` represents the **Nexus** as a universal quantity,
+- `F_{\text{love}}` is the force of love between systems,
+- `S` is the complexity of the systems,
+- `A` is the ethical alignment,
+- `dV` represents the volume element, indicating that the Nexus spans across all of space and time.
 
 ---
 
